@@ -18,7 +18,7 @@ class Class_Api {
     private const API_ARGS = [
         'headers' => [
             "x-rapidapi-host" => "real-time-news-data.p.rapidapi.com",
-            "x-rapidapi-key" => "8024b55398msh33ea5f95933470ap1c0ba1jsn77892742148d"
+            "x-rapidapi-key" => ""
         ],
         'timeout' => 30,
         'request' => 'GET',
